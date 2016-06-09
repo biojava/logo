@@ -6,9 +6,9 @@ We are hosting a **competition to design a new logo** for the BioJava project.
 
 Anybody can participate according to the following rules:
 
-* Submit your logo as a pull request for this project. If appropriate we will provide comments and suggestions for improvement.
+* Submit your logo as a pull request for this project. Please follow the **[instructions for submitting](submissions/README.md)**.
 
-* Logos shall not look similar in any way to the trademarked Java programming language logo. This means no coffee cups in any way. 
+* Logos shall not look similar in any way to the trademarked Java programming language logo. This means no coffee cups in any way.
 
 * A submission shall not be in violation with any copyrighted or trademarked work.
 
