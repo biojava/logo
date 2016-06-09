@@ -1,8 +1,8 @@
 Glorious Green Sample Logo
 ==========================
 
-![Large Logo](logo.svg)
-![Small Logo](logo_small.svg)
+![Large Logo](logo.png)
+![Small Logo](logo_small.png)
 
 Contact Info
 ------------
