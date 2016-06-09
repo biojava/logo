@@ -6,11 +6,11 @@ We are hosting a `competition to design a new logo` for the BioJava project.
 
 Anybody can participate according to the following rules:
 
-* Submit your logo as a pull request for this project. If appropriate we will comment and make suggestions for logos.
+* Submit your logo as a pull request for this project. If appropriate we will provide comments and suggestions for improvement.
 
-* Logos shall not look similar in any way to Oracle's trademarked Java logo. I.e. no coffee cups.
+* Logos shall not look similar in any way to the trademarked Java programming language logo. This means no coffee cups in any way. 
 
-* No Logo shall be in violation with any other copyrighted or trademarked work.
+* A submission shall not be in violation with anycopyrighted or trademarked work.
 
 * All contributed content will be under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
@@ -26,9 +26,20 @@ The winner of the new logo competition will be announced during BOSC 2016.
 
 * We will print t-shirts with the new logo and the designer will get a free t-shirt.
 
-* If the designer of the winning new logo will be attending ISMB, the attending BioJava developers will take the winner out for dinner.
+* If the designer of the winning new logo will be attending ISMB 2016, the attending BioJava developers will take the winner out for dinner.
 
 * BioJava will carry the new logo on its homepage and GitHub Profile.
+ 
+## Desired features
+
+ * The logo should look modern and be better than the current one (yellow circle)
+ 
+ * The logo should be submitted as SVG graphics 
+ 
+ * The logo should be able to be rendered as a favicon, as well as large (e.g. on a t-shirt). A design that provides two different versions (small and large rendering) is acceptable.
+ 
+ 
+ 
 
 
 
