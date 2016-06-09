@@ -2,7 +2,7 @@
 
 The current BioJava logo is very basic. With the upcoming new BioJava v. 5.0 release it is time for branding ourselves with a new logo.
 
-We are hosting a `competition to design a new logo` for the BioJava project.
+We are hosting a **competition to design a new logo** for the BioJava project.
 
 Anybody can participate according to the following rules:
 
@@ -10,7 +10,7 @@ Anybody can participate according to the following rules:
 
 * Logos shall not look similar in any way to the trademarked Java programming language logo. This means no coffee cups in any way. 
 
-* A submission shall not be in violation with anycopyrighted or trademarked work.
+* A submission shall not be in violation with any copyrighted or trademarked work.
 
 * All contributed content will be under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
