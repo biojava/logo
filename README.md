@@ -12,7 +12,7 @@ Anybody can participate according to the following rules:
 
 * A submission shall not be in violation with any copyrighted or trademarked work.
 
-* All contributed content will be under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license.
+* The copyright for the contributed content needs to be transferred to the Open Bioinformatics Foundation (www.open-bio.org).
 
 ## Timeframe
 
