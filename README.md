@@ -1,4 +1,4 @@
-# BioJava New Logo Design Competition
+# New BioJava Logo Design Competition
 
 The current BioJava logo is very basic. With the upcoming new BioJava v. 5.0 release it is time for branding ourselves with a new logo.
 
