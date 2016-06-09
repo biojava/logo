@@ -12,7 +12,7 @@ Anybody can participate according to the following rules:
 
 * A submission shall not be in violation with any copyrighted or trademarked work.
 
-* The copyright for the contributed content needs to be transferred to the Open Bioinformatics Foundation (www.open-bio.org).
+* By contributing to this repository, you agree that the copyright for contribution will be transferred to the Open Bioinformatics Foundation (www.open-bio.org).
 
 ## Timeframe
 
