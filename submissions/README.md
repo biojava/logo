@@ -7,7 +7,9 @@ Submissions are made through github pull requests.
 
 2. Create a subdirectory in `submissions` with your name. If you plan to submit multiple submissions, you may want to number them (e.g. `submissions/biojava_1`).
 
-3. Name your most detailed submission as `logo.svg`. If you have additional versions of the logo they can be added as well (for instance, a version with minimal detail could be called `logo_favicon.svg`).
+3. Create your submission. Ideally, it should be in a vector-based format like SVG.
+
+3. Name your most detailed submission as `logo.svg`. If you have additional versions of the logo they can be added as well (for instance, a version with minimal detail could be called `logo_favicon.svg`). Including PNG versions of the logos as well can make it easier to review, since these are automatically displayed by github.
 
 4. (Optional) Include a README.md file with your name, contact information, and any additional information relevent to your submission.
 
