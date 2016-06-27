@@ -1,4 +1,4 @@
-# Conected Peptide-Bond BioJava Logo
+# Connected Peptide-Bond BioJava Color Logo
 
 ![logo](logo.png)
 
