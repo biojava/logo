@@ -4,17 +4,7 @@ The current BioJava logo is very basic. With the upcoming new BioJava v. 5.0 rel
 
 We are hosting a **competition to design a new logo** for the BioJava project.
 
-Update: Submissions are no longer accepted. We are currently voting for the winner of the competition.
-
-# Please vote
-
-Please vote [here](https://github.com/biojava/logo/issues/10) for your favorite new logo designs!
-
-You can vote by clicking the "smiley" icon on one of the comments below, followed by the thumbs up (+1) 
-
-- Don't vote for a design that you submitted. 
-- Votes for more than one design are ok, but only one vote per design.
-- All votes need to be in by the end of day Wednesday July 6th.
+Update: The winner will be announced at the BOSC 2016 conference in Orlando, Florida.
 
 ## Rules
 
