@@ -4,7 +4,24 @@ The current BioJava logo is very basic. With the upcoming new BioJava v. 5.0 rel
 
 We are hosting a **competition to design a new logo** for the BioJava project.
 
-Update: The winner will be announced at the BOSC 2016 conference in Orlando, Florida.
+Update: The competition is closed now and the winner has been announced.
+
+## Winner
+
+The three top ranking designs were all created by Aleix Latifa (ETH Zurich / Paul Scherrer Institute, Switzerland).
+
+The winner is https://github.com/biojava/logo/tree/master/submissions/lafita_4
+
+<img src="https://raw.githubusercontent.com/biojava/logo/master/submissions/lafita_4/logo.png"/>
+
+Honorary mention goes to Jose Duarte, who suggested this specific variation of the design.
+
+Another version of this design is also top ranking https://github.com/biojava/logo/tree/master/submissions/lafita_2
+
+This variation can be used together with the winning design if a single color version of the logo is needed.
+
+All submissions can still be [viewed here](https://github.com/biojava/logo/issues/10)
+
 
 ## Rules
 
