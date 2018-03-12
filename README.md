@@ -8,7 +8,7 @@ Update: The competition is closed now and the winner has been announced.
 
 ## Winner
 
-The three top ranking designs were all created by Aleix Latifa (ETH Zurich / Paul Scherrer Institute, Switzerland).
+The three top ranking designs were all created by Aleix Lafita (ETH Zurich / Paul Scherrer Institute, Switzerland).
 
 The winner is https://github.com/biojava/logo/tree/master/submissions/lafita_4
 
@@ -62,9 +62,3 @@ The winner of the new logo competition will be announced during BOSC 2016.
  * The logo should be able to be rendered as a favicon, as well as large (e.g. on a t-shirt). A design that provides two different versions (small and large rendering) is acceptable.
  
  
- 
-
-
-
-
-
